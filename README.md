@@ -2,7 +2,6 @@
 
 ### Full-Stack Web Developer
 
-
 I'm deeply passionate about Laravel and its ecosystem. My journey began in 2019, and since then, I've delved into various aspects of web development, honing my skills and exploring new technologies along the way. Currently, I'm actively engaged in the Laravel community, sharing knowledge, and helping others grow through platforms like Filament discussions.
 
 
