@@ -18,7 +18,7 @@ While I may not have open-source projects of my own at the moment, I actively co
 ### Get in Touch
 
 - **Email:** zeeshiq58@gmail.com
-- **LinkedIn:** https://www.linkedin.com/in/zee-tariq
+- **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/zee-tariq)
 
 Feel free to reach out to me if you want to discuss Laravel, web development, or anything else related to technology. Let's connect and learn from each other!
 
