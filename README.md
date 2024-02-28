@@ -2,10 +2,12 @@
 
 ### Full-Stack Web Developer
 
+###
+
 I'm deeply passionate about Laravel and its ecosystem. My journey began in 2019, and since then, I've delved into various aspects of web development, honing my skills and exploring new technologies along the way. Currently, I'm actively engaged in the Laravel community, sharing knowledge, and helping others grow through platforms like Filament discussions.
 
 
-## Contributions
+### Contributions
 
 While I may not have open-source projects of my own at the moment, I actively contribute to the Laravel community in various ways:
 
@@ -13,7 +15,7 @@ While I may not have open-source projects of my own at the moment, I actively co
 - Engaging in conversations on Laravel forums and social media platforms.
 - Sharing code snippets, tips, and tricks on my personal blog or social profiles.
 
-## Get in Touch
+### Get in Touch
 
 - **Email:** zeeshiq58@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/zee-tariq
