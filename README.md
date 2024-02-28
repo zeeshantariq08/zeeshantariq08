@@ -1,6 +1,6 @@
-### Hi 👋 I'm zeeshan
+# Hi 👋 I'm zeeshan
 
-# Full-Stack Web Developer
+### Full-Stack Web Developer
 
 I'm a Laravel developer passionate about building robust web applications. I started my journey in 2019 and have been actively learning and growing ever since.
 
