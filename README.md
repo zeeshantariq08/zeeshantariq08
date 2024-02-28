@@ -2,18 +2,9 @@
 
 ### Full-Stack Web Developer
 
-I'm a Laravel developer passionate about building robust web applications. I started my journey in 2019 and have been actively learning and growing ever since.
-
-## About Me
 
 I'm deeply passionate about Laravel and its ecosystem. My journey began in 2019, and since then, I've delved into various aspects of web development, honing my skills and exploring new technologies along the way. Currently, I'm actively engaged in the Laravel community, sharing knowledge, and helping others grow through platforms like Filament discussions.
 
-## Experience
-
-- **Laravel Development:** Proficient in developing web applications using Laravel framework.
-- **Frontend Development:** Skilled in HTML, CSS, JavaScript, and modern frontend frameworks like Vue.js.
-- **Database Management:** Experienced in working with MySQL and eager to explore other database technologies.
-- **Problem Solving:** Enjoy solving complex problems and implementing elegant solutions.
 
 ## Contributions
 
