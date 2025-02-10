@@ -1,41 +1,50 @@
-# Hi 👋 I'm z33
+### 🚀 Hi, I'm **z33** 👋  
 
-### Full-Stack Web Developer
+#### **Full-Stack Web Developer | Laravel Enthusiast**  
 
-###
+I'm deeply passionate about Laravel and its ecosystem. My journey began in 2019, and since then, I've been refining my skills in backend and frontend development. I actively contribute to the Laravel community by sharing knowledge in Filament discussions, Laravel forums, and social media.  
 
-I'm deeply passionate about Laravel and its ecosystem. My journey began in 2019, and since then, I've delved into various aspects of web development, honing my skills and exploring new technologies along the way. Currently, I'm actively engaged in the Laravel community, sharing knowledge, and helping others grow through platforms like Filament discussions.
+---
 
+### 💻 **Tech Stack & Tools**  
+![Laravel](https://img.shields.io/badge/Laravel-F55247?style=for-the-badge&logo=laravel&logoColor=white)  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  
+![FilamentPHP](https://img.shields.io/badge/FilamentPHP-3B82F6?style=for-the-badge&logo=filament&logoColor=white)  
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+![Livewire](https://img.shields.io/badge/Livewire-4F46E5?style=for-the-badge&logo=livewire&logoColor=white)  
 
-### Contributions
+---
 
-While I may not have open-source projects of my own at the moment, I actively contribute to the Laravel community in various ways:
+### 📊 **GitHub Stats**  
+📌 **Overall Activity**  
+![Zee's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zeeshantariq08&show_icons=true&theme=radical)  
 
-- Providing assistance and sharing insights in Filament discussions.
-- Engaging in conversations on Laravel forums and social media platforms.
-- Sharing code snippets, tips, and tricks on my personal blog or social profiles.
+🔥 **GitHub Streak**  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zeeshantariq08&theme=radical)  
 
-### Get in Touch
+📌 **Most Used Languages**  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zeeshantariq08&layout=compact&theme=radical)  
 
-- **Email:** zeeshiq58@gmail.com
-- **LinkedIn:** https://www.linkedin.com/in/zee-tariq
+---
 
-Feel free to reach out to me if you want to discuss Laravel, web development, or anything else related to technology. Let's connect and learn from each other!
+### 🎯 **What I'm Up To**
+- 💡 Exploring advanced Laravel and Filament features  
+- 📚 Learning new tools and frameworks  
+- 🤝 Helping others in the Laravel community  
 
-Happy coding! 🚀
+---
 
+### 📞 **Let's Connect!**  
+📧 **Email:** [zeeshiq58@gmail.com](mailto:zeeshiq58@gmail.com)  
+🌟 **LinkedIn:** [zee-tariq](https://www.linkedin.com/in/zee-tariq)
 
-<!--
-**zeeshantariq08/zeeshantariq08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Let's chat about Laravel, PHP, and all things web development! 🚀  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔥 Fun Fact  
+💡 **"Code is like humor. When you have to explain it, it’s bad."** 😆  
+
+---
